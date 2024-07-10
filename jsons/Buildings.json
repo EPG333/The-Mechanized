@@ -19,6 +19,7 @@
 		"happiness": 3,
 		"cost": 0,
 		"uniques": [
+			"Automatically built in all cities where it is buildable",
 			"Provides [4] [Power]",
 			"[2] free [Gunner Drone] units appear",
 			"Can only be built [in capital]",
