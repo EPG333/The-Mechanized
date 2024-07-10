@@ -100,7 +100,7 @@
 		"replaces": "Greenhouse",
 		"uniqueTo": "The Mechanized",
 		"food": 4,
-		"requiredNearbyImprovedResources": ["Tubers", "Grain", "Fungus"],
+		"requiredNearbyImprovedResources": ["Tubers", "Grain", "Fungus", "Cactus"],
 		"uniques": [
 			"[+2] population [in this city]",
 			"Unsellable",
@@ -156,7 +156,7 @@
 		"uniques": [
 			"[+1] population [in this city]",
 			"All newly-trained [Personnel] units [in this city] receive the [Resupply] promotion",
-			"[+1 Food, +1 Production] from [Salt] tiles [in this city]",
+			"[+1 Gold, +1 Production] from [Salt] tiles [in this city]",
 			"[+2 Production] [in this city] <after discovering [Computers]>",
 			"Consumes [1] [Salt]",
 			"Consumes [1] [Power]",
@@ -175,6 +175,7 @@
 		"hurryCostModifier": 25,
 		"uniques": [
 			"[+1 Gold, +1 Happiness] from [Lakes] tiles [in this city]",
+			"[+1 Gold, +1 Happiness] from [Lakes] tiles [in this city] <after discovering [Genetics]>",
 			"[+2] population [in this city]",
 			"Unsellable",
 			"Consumes [1] [Power]"
@@ -313,6 +314,7 @@
 		"hurryCostModifier": 25,
 		"uniques": [
 			"Consumes [1] [Power]",
+			"[-15]% enemy spy effectiveness [in this city]",
 			"[+1] population [in this city]",
 			"Remove extra unhappiness from annexed cities",
 			"[+1 Happiness] [in this city] <after adopting [Constitution Complete]>",
@@ -320,7 +322,7 @@
 			"Unsellable",
 			"Destroyed when the city is captured"
 		],
-		"requiredTech": "Networking"
+		"requiredTech": "Computers"
 	},
 	{
 		"name": "Integrate Enslaved Into Society",
@@ -399,6 +401,15 @@
 			"[+1 Production] from [Metal] tiles [in this city]",
 			"[+1 Production] from [Solar collector] tiles [in this city]",
 			"Must have an owned [Solar collector] within [2] tiles"],
-		"requiredTech": "Electronics"
+		"requiredTech": "Writing"
+	}
+{
+		"name": "Makesift solar panel",
+		"uniqueTo": "The Mechanized",
+		"maintenance": 0
+		"uniques": 
+	["Creates a [Solar collector] improvement on a specific tile",
+	"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Electronics]",]
+		"requiredTech": "Writing"
 	}
 ]
