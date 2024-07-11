@@ -336,11 +336,10 @@
 		"replaces": "Listening Post",
 		"cost": 200,
 		"maintenance": 1,
-		"happiness": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
 			"Consumes [1] [Power]",
-			"[-15]% enemy spy effectiveness [in this city]",
+			"[-30% enemy spy effectiveness [in this city]",
 			"[+1] population [in this city]",
 			"Remove extra unhappiness from annexed cities",
 			"[+1 Happiness] [in this city] <after adopting [Constitution Complete]>",
