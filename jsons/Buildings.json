@@ -455,4 +455,18 @@
 		],
 		"requiredTech":"Radio"
 	}
+{ 
+	"name": "Aquaculture Site",
+	"uniqueTo": "The Mechanized"
+	"replaces": "Ocean Seeder",
+	"food": 4
+	"maintenance": 1,
+	"uniques": [
+			"[+2] population [in this city]",
+			"Unsellable",
+			"Destroyed when the city is captured",
+			"Only available <in cities with a [Life Creation Lab]>"
+		],
+	"requiredTech":"Ocean Remediation"
+}
 ]
