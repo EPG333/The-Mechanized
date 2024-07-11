@@ -16,9 +16,9 @@
 		"uniques": ["Indicates the capital city", "Provides [4] [Power]",
 		// Biggest worries here. Is it too fast to get bonuses like these? 
 		"[+1 Production] [in capital] <after adopting [Differential Rationing]>",
-		"[+5]% Production when constructing [All] buildings [in capital]",
+		"[+5]% [Production] when constructing [All] buildings [in capital]",
 		"[+2 Production] [in all cities connected to capital] <after adopting [Adaptation Complete]>",
-		"[+10]% Gold [in all cities] <after adopting [Adaptation Complete]>",
+		"[+10]% [Gold] [in all cities] <after adopting [Adaptation Complete]>",
 		// Too occasional bonuses
 		"[+1 Faith, +1 Culture] from every [Seminary]",
 		"[+2 Faith, +1 Culture] from every [Oracle]",
@@ -47,7 +47,7 @@
 			"Automatically built in all cities where it is buildable",
 			"Provides [4] [Power]",
 			"[2] free [Gunner Drone] units appear",
-			"Can only be built [in capital cities]",
+			"Can only be built <in [Capital] cities>",
 			"[+1] population [in this city]",
 			"Gain a free [Life Creation Lab] [in this city]"
 		],
@@ -67,7 +67,7 @@
 		"uniques": [
 			"[+2] population [in this city]",
 			"Free [Mechanized Worker] appears",
-			"Can only be built [in capital cities]"
+			"Can only be built <in [Capital] cities>",
 		]
 	},
 	{
@@ -288,7 +288,7 @@
 			"[-10]% Unhappiness from [Population] [in all cities]",
 			"Unsellable",
 			"Only available <if [Life Creation Lab] is constructed in at least [4] of [Your] cities>",
-			"Can only be built [in capital cities]",
+			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Mass Breedery]>",
 			"Destroyed when the city is captured"
 		]
