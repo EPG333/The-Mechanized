@@ -447,6 +447,7 @@
 		"replaces": "Community Garden",
 		"maintenance": 1,
 		"production": 1,
+		"uniques":
 		[
 		"Consumes [1] [Power]"
 		],
