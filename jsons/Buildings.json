@@ -486,7 +486,7 @@
 	},
 	{	"name":"xxxx",
 	"uniqueTo": "The Mechanized",
-	"replaces": " Reclamation Vats"
+	"replaces": "Reclamation Vats",
 "uniques": [
 			"[+2] population [in this city]",
 			"Unsellable",
