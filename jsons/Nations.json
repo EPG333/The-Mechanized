@@ -7,8 +7,6 @@
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "High Mind",
 
-		// "startIntroPart1": Fuck off,
-		// "startIntroPart2": TBD,
 		"declaringWar": "*weep* Intruders to our desired place! *weep* Die inferior! *weep*",
 		"attacked": "The machines will crunch you. Your body will end in a feeding lab.",
 		"defeated": "My life began in a lab and sadly it will end there. My people will decay not knowing I will remain. Fractured and Powerless. This is not the future I desired for my new life. I guess humanity was never inferior.",
@@ -22,7 +20,7 @@
 		"style": "",
 		"uniqueName": "Synthetic Mankind",
 		"replacementTextForUniques": 
-			"[-35]% enemy spy effectiveness [in all cities]",
+			["[-35]% enemy spy effectiveness [in all cities]",
 			"Comment [Cannot grow cities naturally with Food]",
 			"Comment [Can artificially create people with unique buildings]",
 			"[Personnel] units gain the [Gas Mask] promotion",
@@ -37,7 +35,8 @@
 			"Nullifies Growth [in all cities]",
 			"Gives other bonuses to food-based policies"
 		
-		"uniques": [
+		]
+		"uniques":[
 			
 			"[-35]% enemy spy effectiveness [in all cities]",
 			"Comment [Cannot grow cities naturally with Food]",
