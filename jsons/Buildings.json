@@ -333,7 +333,7 @@
 		"name": "Control Router",
 		"uniqueTo": "The Mechanized",
 		"replaces": "Listening Post",
-		"cost": 125,
+		"cost": 200,
 		"maintenance": 1,
 		"happiness": 1,
 		"hurryCostModifier": 25,
@@ -426,15 +426,15 @@
 			"[+1 Production] from [Metal] tiles [in this city]",
 			"[+1 Production] from [Solar collector] tiles [in this city]",
 			"Must have an owned [Solar collector] within [2] tiles"],
-		"requiredTech": "Writing"
+		"requiredTech": "Engineering"
 	}
 {
-		"name": "Makesift solar panel",
+		"name": "Solar Panel Control",
 		"uniqueTo": "The Mechanized",
 		"maintenance": 0
 		"uniques": 
 	["Creates a [Solar collector] improvement on a specific tile",
-	"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Electronics]"]
+	"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Electronics]>"]
 		"requiredTech": "Writing"
 	}
 ]
