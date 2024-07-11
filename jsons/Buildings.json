@@ -12,14 +12,18 @@
 		"happiness": 2,
 		"replacementTextForUniques": ["Indicates the capital city", "Provides [4] [Power]", "Gives bonuses to corresponding food-based policies"]
 		"uniques": ["Indicates the capital city", "Provides [4] [Power]",
-		"[+1 production] [in this city] <after adopting [Differential Rationing]>",
+		// Biggest worries here it is too fast to get bonuses like these? Does it work for other Factions? 
+		"[+1 production] [in capital] <after adopting [Differential Rationing]>",
 		"[+5]% Production when constructing [All] buildings [in capital]",
 		"[+2 production] [in all cities] <after adopting [Adaptation Complete]>",
 		"[+10]% Gold [in all cities] <after adopting [Adaptation Complete]>",
+		// Too occasional bonuses
 		"[+1 Faith, +1 Culture] from every [Seminary]",
 		"[, +2 Faith, +1 Culture] from every [Oracle]",
 		"[, +1 Faith, +2 Gold] from every [Endowment House]",
+		//Shouldn't be too much nobody is playing wide as The Mechanized ( I think )
 		"[-2 Food, +1 Production, +1 Science] [in all cities]  <after adopting [Collectivism Complete]>",
+		// These monopoly changes could out compete Collectivism branch because of the gold slider problem ( need to test )
 		"[+1 Gold, -1 Food] from every [Moisture trap] <after adopting  [Monopoly Complete]>",
 		"[+1 Gold, -1 Food] from every [Water pump] <after adopting  [Monopoly Complete]>",
 		"[+1 Production] from every [Refinery] <after adopting  [Monopoly Complete]>",
