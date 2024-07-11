@@ -452,6 +452,6 @@
 		"[+25]% Great Person generation [in this city]",
 		"Consumes [1] [Power]"
 		],
-
+		"requiredTech":"Radio"
 	}
 ]
