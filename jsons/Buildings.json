@@ -412,7 +412,7 @@
 		"maintenance": 0
 		"uniques": 
 	["Creates a [Solar collector] improvement on a specific tile",
-	"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Electronics]",]
+	"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Electronics]"]
 		"requiredTech": "Writing"
 	}
 ]
