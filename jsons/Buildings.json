@@ -445,13 +445,12 @@
 		"name": "hehe",
 		"uniqueTo": "The Mechanized",
 		"replaces": "Community Garden",
+		"specialistSlots": {"Administrator": 1, "Engineer": 1,"Scientist": 1},
 		"maintenance": 1,
 		"production": 1,
 		"uniques":
 		[
 		"[+25]% Great Person generation [in this city]",
-		"[+1 Science] [in this city] <with [Books]>",
-		"[+1 culture] [in this city] <with [Artifacts]>",
 		"Consumes [1] [Power]"
 		],
 		"requiredTech":"Radio"
