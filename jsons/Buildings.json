@@ -446,6 +446,13 @@
 		"uniqueTo": "The Mechanized",
 		"replaces": "Community Garden",
 		"maintenance": 1,
-		"culture": 1
+		"production": 1,
+		[
+		"[+25]% Great Person generation [in this city]",
+		"[+1 Science] [in this city] <with [Books]>",
+		"[+1 culture] [in this city] <with [Artifacts]>",
+		"Consumes [1] [Power]"
+		],
+
 	}
 ]
