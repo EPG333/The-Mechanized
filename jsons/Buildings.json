@@ -447,9 +447,8 @@
 		"uniqueTo": "The Mechanized",
 		"Production" 1,
 		"maintenance": 1,
-		"uniques": ["[+25]% Great Person generation [in this city]",
-			"[+1 Culture] [in this city] <with [Artifacts]>",
-			"[+1 Science] [in this city] <with [Books]>"],
+		"uniques": ["[+25]% Great Person generation [in this city]"
+			],
 		
 		"requiredTech": "Ecology"
 	},
