@@ -440,16 +440,6 @@
 			"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Electronics]>"
 		],
 		"requiredTech": "Writing"
-	},
-		{
-		"name": "Machine Community Centre",
-		"replaces":"Shrine",
-		"uniqueTo": "The Mechanized",
-		"Production" 1,
-		"maintenance": 1,
-		"uniques": ["[+25]% Great Person generation [in this city]"
-		
-		],
-		"requiredTech": "Ecology"
 	}
+
 ]
