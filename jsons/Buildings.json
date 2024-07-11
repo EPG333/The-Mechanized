@@ -440,6 +440,12 @@
 			"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Electronics]>"
 		],
 		"requiredTech": "Writing"
+	},
+	{
+		"name": "hehe",
+		"uniqueTo": "The Mechanized",
+		"replaces": "Shrine",
+		"maintenance": 1,
+		"culture": 1
 	}
-
 ]
