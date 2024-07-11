@@ -469,4 +469,30 @@
 		],
 	"requiredTech":"Ocean Remediation"
 }
+	{
+	"name":"xxx",
+	"uniqueTo": "The Mechanized",
+	
+	"replaces": "Mycoprotein Vats"
+	"food": 4,
+	"uniques": [
+			"[+2] population [in this city]",
+			"Unsellable",
+			"Destroyed when the city is captured",
+			"Only available <in cities with a [Life Creation Lab]>"
+		],
+		"requiredTech": "Genetics"
+		
+	},
+	{	"name":"xxxx",
+	"uniqueTo": "The Mechanized",
+	"replaces": " Reclamation Vats"
+"uniques": [
+			"[+2] population [in this city]",
+			"Unsellable",
+			"Destroyed when the city is captured",
+			"Only available <in cities with a [Life Creation Lab]>"
+		],
+		"requiredTech": "Human Genome"
+	}
 ]
