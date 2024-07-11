@@ -28,7 +28,8 @@
 		"[+2 Gold, -2 Food] from every [Banana Business Area] <after adopting  [Monopoly Complete]>",
 		"[+2 Gold, +2 Culture] from every [Narcotics farm] <after adopting  [Monopoly Complete]>",
 		"[+1 Gold, -2 Food,] from every [Wasteland Station] <after adopting  [Monopoly Complete]>",
-	},
+	
+			},
 	{
 		"name": "Solar Power AI",
 		"isWonder": true,
