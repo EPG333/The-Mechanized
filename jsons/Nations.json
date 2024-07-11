@@ -25,6 +25,7 @@
 			"[-35]% enemy spy effectiveness [in all cities]",
 			"Comment [Cannot grow cities naturally with Food]",
 			"Comment [Can artificially create people with unique buildings]",
+			"Comment [Food-based policies give other bonuses]",
 			"[Personnel] units gain the [Gas Mask] promotion",
 			"[Personnel] units gain the [Automated] promotion",
 			"Cannot build [Low Tech] units",
@@ -35,7 +36,7 @@
 			"[-10]% [Science] [in all cities] <before discovering [Computers]>",
 			"[-10]% [Production] [in all cities] <before discovering [Computers]>",
 			"Nullifies Growth [in all cities]",
-			"Food-based policies give other bonuses"
+			
 		
 		
 		],
