@@ -442,7 +442,7 @@
 		"requiredTech": "Writing"
 	},
 	{
-		"name": "hehe",
+		"name": "Machina Community Centre",
 		"uniqueTo": "The Mechanized",
 		"replaces": "Community Garden",
 		"specialistSlots": {"Administrator": 1, "Engineer": 1,"Scientist": 1},
