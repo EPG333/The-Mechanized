@@ -37,6 +37,7 @@
 		
 	
 			},
+	//Can't be Automatically build and if so free Life Creation Lab must be deleted (auto-build doesn't give one additional pop because of this change)
 	{
 		"name": "Solar Power AI",
 		"isWonder": true,
@@ -269,7 +270,7 @@
 		"uniqueTo": "The Mechanized",
 		"isNationalWonder": true,
 		"uniques": [
-			"[+6 Food, +3 Happiness] from every [Life Creation Kit]",
+			"[+6 Food, +3 Happiness] from every [Life Creation Lab]",
 			"[+3] population [in all cities]",
 			"Only available <if [Next-Gen Creation Lab] is constructed in all [Non-occupied] cities>"
 		],
