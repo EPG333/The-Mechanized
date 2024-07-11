@@ -4,11 +4,10 @@
 		"isNationalWonder": true,
 		"replaces": "Bomb Shelter",
 		"uniqueTo": "The Mechanized",
-		"production": 9999,
+		"production": 5,
 		"cityHealth": 400,
-		"science": 9999,
-		"gold": 9999,
-		"culture": 9999,
+		"science": 4,
+		"gold": 1,
 		"cost": 1,
 		"happiness": 2,
 		"replacementTextForUniques":
@@ -47,7 +46,7 @@
 		"uniques": [
 			"Automatically built in all cities where it is buildable",
 			"Provides [4] [Power]",
-			"[2] free [Gunner Drone] units appear",
+			"[1] free [Gunner Drone] units appear",
 			"Can only be built <in [Capital] cities>",
 			"[+1] population [in this city]",
 			"Gain a free [Life Creation Lab] [in this city]"
