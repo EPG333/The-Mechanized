@@ -61,7 +61,8 @@
 				"text": "A Purge Robot that originally operated during the Old World era. Some of its combat effectiveness was sacrificed when it was refurbished and repurposed for manual labor."
 			}
 		]
-		{
+	},
+	{
 		"name": "Worker of Mechanized",
 		"replaces" "Mechanized Worker",
 		"uniqueTo": "The Mechanized",
@@ -77,7 +78,7 @@
 			"Can build [Land] improvements on tiles",
 			"[-25]% construction time for [All] improvements",
 			"Automation is a primary action"
-		]
-	},
+			   ]
 	}
+	
 ]
