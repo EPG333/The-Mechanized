@@ -402,6 +402,25 @@
 		]
 	},
 	{
+		"Name": "Machine Community Centre",
+		"replaces":"Community Garden",
+		"uniqueTo": "The Mechanized",
+		"requiredTech":"Radio"
+		"uniques":
+		[
+		"[+25]% Great Person generation [in this city]",
+		"[+1 Science] [in this city] <with [Books]>",
+		"[+1 culture] [in this city] <with [Artifacts]>",
+		"Consumes [1] [Power]"
+		],
+
+		"civilopediaText": [
+			{
+				"text": "To make my subordinates live in peace and prosperity thier actions should be administered correctly. Letting them develop is my task ."
+			}],
+
+	},
+	{
 		"name": "Black Smoker",
 		"uniqueTo": "The Mechanized",
 		"replaces": "Coal Plant",
