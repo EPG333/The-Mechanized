@@ -429,7 +429,8 @@
 			"Must have an owned [Solar collector] within [2] tiles"],
 		"requiredTech": "Engineering"
 	},
-		"name": "Solar Panel Control",
+		{
+			"name": "Solar Panel Control",
 		"uniqueTo": "The Mechanized",
 		"maintenance": 0,
 		"uniques": [
@@ -437,5 +438,5 @@
 			"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Electronics]>"
 		],
 		"requiredTech": "Writing"
-	}
+	},
 ]
