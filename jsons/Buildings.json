@@ -459,7 +459,7 @@
 	"uniqueTo": "The Mechanized"
 	"replaces": "Ocean Seeder",
 	"food": 4
-	"maintenance": 1,
+	"maintenance": 2,
 	"uniques": [
 			"Must be next to [Coast]",
 			"[+2] population [in this city]",
@@ -475,6 +475,7 @@
 	
 	"replaces": "Mycoprotein Vats"
 	"food": 4,
+	"maintenance": 3,
 	"uniques": [
 			"[+2] population [in this city]",
 			"Unsellable",
@@ -487,7 +488,8 @@
 	{	"name":"xxxx",
 	"uniqueTo": "The Mechanized",
 	"replaces": "Reclamation Vats",
-"uniques": [
+	"maintenance": 4,
+	"uniques": [
 			"[+2] population [in this city]",
 			"Unsellable",
 			"Destroyed when the city is captured",
