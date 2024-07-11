@@ -441,4 +441,16 @@
 		],
 		"requiredTech": "Writing"
 	},
+{
+		"name": "Machine Community Centre",
+		"replaces":"Community Garden",
+		"uniqueTo": "The Mechanized",
+		"Production" 1,
+		"maintenance": 1,
+		"uniques": ["[+25]% Great Person generation [in this city]",
+			"[+1 Culture] [in this city] <with [Artifacts]>",
+			"[+1 Science] [in this city] <with [Books]>",]
+		
+		"requiredTech": "Ecology"
+	},
 ]
