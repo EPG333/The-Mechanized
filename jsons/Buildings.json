@@ -10,7 +10,9 @@
 		"gold": 2,
 		"cost": 1,
 		"happiness": 2,
-		"uniques": ["Indicates the capital city", "Provides [4] [Power]"
+		"replacementTextForUniques":"Indicates the capital city Provides [4] [Power]",
+		
+		"uniques": ["Indicates the capital city", "Provides [4] [Power]",
 		// Biggest worries here. Is it too fast to get bonuses like these? 
 		"[+1 production] [in capital] <after adopting [Differential Rationing]>",
 		"[+5]% Production when constructing [All] buildings [in capital]",
