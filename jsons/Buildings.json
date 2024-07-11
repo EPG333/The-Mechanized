@@ -12,7 +12,7 @@
 		"happiness": 2,
 		"replacementTextForUniques":
 		["Indicates the capital", 
-		"city Provides [4] [Power]"]
+		"city Provides [4] [Power]"],
 		
 		"uniques": ["Indicates the capital city", "Provides [4] [Power]",
 		// Biggest worries here. Is it too fast to get bonuses like these? 
