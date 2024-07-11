@@ -4,10 +4,11 @@
 		"isNationalWonder": true,
 		"replaces": "Bomb Shelter",
 		"uniqueTo": "The Mechanized",
-		"production": 5,
+		"production": 9999,
 		"cityHealth": 400,
-		"science": 4,
-		"gold": 2,
+		"science": 9999,
+		"gold": 9999,
+		"culture": 9999,
 		"cost": 1,
 		"happiness": 2,
 		"replacementTextForUniques":
@@ -16,7 +17,7 @@
 		"uniques": ["Indicates the capital city", "Provides [4] [Power]",
 		// Biggest worries here. Is it too fast to get bonuses like these? 
 		"[+1 Production] [in capital] <after adopting [Differential Rationing]>",
-		"[+5]% [Production] when constructing [All] buildings [in capital]",
+		"[+5]% Production when constructing [All] buildings [in capital]",
 		"[+2 Production] [in all cities connected to capital] <after adopting [Adaptation Complete]>",
 		"[+10]% [Gold] [in all cities] <after adopting [Adaptation Complete]>",
 		// Too occasional bonuses
