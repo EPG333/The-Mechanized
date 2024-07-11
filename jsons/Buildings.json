@@ -401,21 +401,7 @@
 			"Unsellable"
 		]
 	},
-	{
-		"Name": "Machine Community Centre",
-		"replaces":"Community Garden",
-		"uniqueTo": "The Mechanized",
-		"uniques":
-		[
-		"[+25]% Great Person generation [in this city]",
-		"[+1 Science] [in this city] <with [Books]>",
-		"[+1 culture] [in this city] <with [Artifacts]>",
-		"Consumes [1] [Power]"
-		],
-		"requiredTech":"Radio"
-
-
-	},
+	
 	{
 		"name": "Black Smoker",
 		"uniqueTo": "The Mechanized",
