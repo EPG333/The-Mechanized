@@ -21,8 +21,8 @@
 		"[+10]% Gold [in all cities] <after adopting [Adaptation Complete]>",
 		// Too occasional bonuses
 		"[+1 Faith, +1 Culture] from every [Seminary]",
-		"[, +2 Faith, +1 Culture] from every [Oracle]",
-		"[, +1 Faith, +2 Gold] from every [Endowment House]",
+		"[+2 Faith, +1 Culture] from every [Oracle]",
+		"[+1 Faith, +2 Gold] from every [Endowment House]",
 		//Shouldn't be too much. Nobody is playing wide while playing The Mechanized to take advantage of these bonuses ( I think )
 		"[-2 Food, +1 Production, +1 Science] [in all cities]  <after adopting [Collectivism Complete]>",
 		// These monopoly changes could out compete Collectivism branch because of the gold slider problem ( need to test )
@@ -33,7 +33,7 @@
 		"[+2 Gold, -2 Food] from every [Supply Complex] <after adopting [Monopoly Complete]>",
 		"[+2 Gold, -2 Food] from every [Banana Business Area] <after adopting [Monopoly Complete]>",
 		"[+2 Gold, +2 Culture] from every [Narcotics farm] <after adopting [Monopoly Complete]>",
-		"[+1 Gold, -2 Food,] from every [Wasteland Station] <after adopting [Monopoly Complete]>"],
+		"[+1 Gold, -2 Food] from every [Wasteland Station] <after adopting [Monopoly Complete]>"],
 		
 	
 			},
@@ -47,7 +47,7 @@
 			"Automatically built in all cities where it is buildable",
 			"Provides [4] [Power]",
 			"[2] free [Gunner Drone] units appear",
-			"Can only be built [in capital]",
+			"Can only be built [in capital cities]",
 			"[+1] population [in this city]",
 			"Gain a free [Life Creation Lab] [in this city]"
 		],
@@ -67,7 +67,7 @@
 		"uniques": [
 			"[+2] population [in this city]",
 			"Free [Mechanized Worker] appears",
-			"Can only be built [in capital]"
+			"Can only be built [in capital cities]"
 		]
 	},
 	{
@@ -288,7 +288,7 @@
 			"[-10]% Unhappiness from [Population] [in all cities]",
 			"Unsellable",
 			"Only available <if [Life Creation Lab] is constructed in at least [4] of [Your] cities>",
-			"Can only be built [in capital]",
+			"Can only be built [in capital cities]",
 			"Only available <in cities without a [Mass Breedery]>",
 			"Destroyed when the city is captured"
 		]
@@ -305,7 +305,7 @@
 			"Cost increases by [30] per owned city",
 			"Unsellable",
 			"Only available <if [Life Creation Lab] is constructed in at least [4] of [Your] cities>",
-			"Can only be built [in capital]",
+			"Can only be built <in [capital] cities>",
 			"Only available <in cities without a [Mass Energizer]>",
 			"Destroyed when the city is captured"
 		]
@@ -320,7 +320,7 @@
 		"cost": 20,
 		"uniques": [
 			"Remove extra unhappiness from annexed cities",
-			"Can only be built [in annexed cities]",
+			"Can only be built <in [annexed] cities>",
 			"Requires at least [3] population",
 			"Provides [4] [Slaves]",
 			"[-2] population [in this city]",
@@ -396,7 +396,7 @@
 			"Consumes [1] [Power]",
 			"[+2] population [in this city]",
 			"Destroyed when the city is captured",
-			"Can only be built [in capital]",
+			"Can only be built <in [capital] cities>",
 			"Unsellable"
 		]
 	},
@@ -428,16 +428,14 @@
 			"[+1 Production] from [Solar collector] tiles [in this city]",
 			"Must have an owned [Solar collector] within [2] tiles"],
 		"requiredTech": "Engineering"
-	}
-//Made to counter the electroncs take out bc of the espionage update
-	{
+	},
 		"name": "Solar Panel Control",
 		"uniqueTo": "The Mechanized",
-		"maintenance": 0
+		"maintenance": 0,
 		"uniques": [
 			"Creates a [Solar collector] improvement on a specific tile",
 			"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Electronics]>"
-		]
+		],
 		"requiredTech": "Writing"
 	}
 ]
