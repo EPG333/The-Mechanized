@@ -403,7 +403,7 @@
 	},
 	{
 		"name": "Machine Community Centre",
-		"Production",
+		"Production" 1,
 		"maintenance": 1,
 		"uniques": ["[+25]% Great Person generation [in this city]",
 			"[+1 Culture] [in this city] <with [Artifacts]>",
