@@ -450,9 +450,9 @@
 		"uniques":
 		[
 		"[+25]% Great Person generation [in this city]",
-		"Consumes [1] [Power]",
 		"[+1 Science] [in this city] <with [Books]>",
-		"[+1 culture] [in this city] <with [Artifacts]>"
+		"[+1 culture] [in this city] <with [Artifacts]>",
+		"Consumes [1] [Power]"
 		],
 		"requiredTech":"Radio"
 	}
