@@ -448,8 +448,8 @@
 		"Production" 1,
 		"maintenance": 1,
 		"uniques": ["[+25]% Great Person generation [in this city]"
-			],
 		
+		],
 		"requiredTech": "Ecology"
-	},
+	}
 ]
