@@ -34,7 +34,7 @@
 		"[+2 Gold, -2 Food] from every [Banana Business Area] <after adopting [Monopoly Complete]>",
 		"[+2 Gold, +2 Culture] from every [Narcotics farm] <after adopting [Monopoly Complete]>",
 		"[+1 Gold, -2 Food] from every [Wasteland Station] <after adopting [Monopoly Complete]>"],
-		
+		// Add Rediscovery Policy tree changes to Aquaculture and Exclusive Zones
 	
 			},
 	//Can't be Automatically build and if so free Life Creation Lab must be deleted (auto-build doesn't give one additional pop because of this change)
@@ -58,6 +58,7 @@
 			}
 		]
 	},
+	// Free mechanized Worker could be changed to normal worker 
 	{
 		"name": "Track Survivors",
 		"replaces": "Search for Survivors",
@@ -453,8 +454,9 @@
 		"Consumes [1] [Power]"
 		],
 		"requiredTech":"Radio"
-	}
-{ 
+	},
+	Possible buff to add yield to water tiles(?)
+	{ 
 	"name": "Aquaculture Site",
 	"uniqueTo": "The Mechanized"
 	"replaces": "Ocean Seeder",
@@ -468,12 +470,12 @@
 			"Only available <in cities with a [Life Creation Lab]>"
 		],
 	"requiredTech":"Ocean Remediation"
-}
+},
+	//names will be added later also possible buff to add +three pop than +two and Mycoprotein Vats could get additional science or culture from fauna tiles
 	{
 	"name":"xxx",
 	"uniqueTo": "The Mechanized",
-	
-	"replaces": "Mycoprotein Vats"
+	"replaces": "Mycoprotein Vats",
 	"food": 4,
 	"maintenance": 3,
 	"uniques": [
