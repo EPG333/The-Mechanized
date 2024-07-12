@@ -138,6 +138,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Botany"
 	},
+	//remove the +one food from coast tiles and maybe change into other yield
 	{
 		"name": "Fish Farm Regulator",
 		"replaces": "Fish Farm",
@@ -277,7 +278,11 @@
 		],
 		"requiredTech": "Human Genome"
 	},
-  	{
+  	// Change is needed to balance them out. Mass Energizer out classes Mass Breedery in most cases
+	// Ideas:
+	// Complete changes ( remove Mass Energizer and Mass Breedery for proper replacment)
+	// Embrace thier nature and add additional stats 
+	{
 		"name": "Mass Energizer",
 		"replaces": "Congress",
 		"uniqueTo": "The Mechanized",
@@ -286,7 +291,7 @@
 		"uniques": [
 		   	"Provides [8] [Power]",
 			"[+2] population [in this city]",
-			"[-10]% Unhappiness from [Population] [in all cities]",
+			"[-5]% Unhappiness from [Population] [in all cities]",
 			"Unsellable",
 			"Only available <if [Life Creation Lab] is constructed in at least [4] of [Your] cities>",
 			"Can only be built <in [Capital] cities>",
@@ -419,27 +424,28 @@
 		],
 		"requiredTech": "Steam Power"
 	},
-		{
+		//
+	{
 		"name": "Solar Powered Furnace",
 		"replaces": "Blast Furnace",
 		"uniqueTo": "The Mechanized",
-		"cost":250,
 		"maintenance": 1,
 		"uniques": ["[+1 Production] from [Scrap] tiles [in this city]",
 			"[+1 Production] from [Metal] tiles [in this city]",
 			"[+1 Production] from [Solar collector] tiles [in this city]",
 			"Must have an owned [Solar collector] within [2] tiles"],
-		"requiredTech": "Steel"
-	},
-		{
+		"requiredTech": "Electronics",
+	}
+	// This bottom building could be assimilated to solar powered furnace wanted to add this to pre-electronics techs but solar panel are unbuildable until electronics are discovered (duh)
+	{
 			"name": "Solar Panel Control",
 		"uniqueTo": "The Mechanized",
 		"maintenance": 0,
 		"uniques": [
 			"Creates a [Solar collector] improvement on a specific tile",
-			"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Electronics]>"
+			"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Networking]>"
 		],
-		"requiredTech": "Writing"
+		"requiredTech": "Electronics"
 	},
 	{
 		"name": "Machina Community Centre",
@@ -447,6 +453,7 @@
 		"replaces": "Community Garden",
 		"specialistSlots": {"Administrator": 1, "Engineer": 1,"Scientist": 1},
 		"maintenance": 1,
+		"percentStatBonus": {"production": 5},
 		"production": 1,
 		"uniques":
 		[
@@ -455,7 +462,7 @@
 		],
 		"requiredTech":"Radio"
 	},
-	Possible buff to add yield to water tiles(?)
+	//Possible buff to add extra yield to water tiles(?)
 	{ 
 	"name": "Aquaculture Site",
 	"uniqueTo": "The Mechanized"
