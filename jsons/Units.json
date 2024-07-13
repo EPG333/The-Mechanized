@@ -64,9 +64,9 @@
 	}
 	{
 		"name": "Firt Aid",
-		"unitType": "Wandering Doctor",
+		"unitType": "Scrapper",
 		"uniqueTo": "The Mechanized",
-		"replaces": "Scout",
+		"replaces": "Wandering Doctor",
 		"movement": 2,
 		"strength": 12,
 		"cost": 25,
