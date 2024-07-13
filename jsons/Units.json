@@ -64,7 +64,7 @@
 	}
 	{
 		"name": "Firt Aid",
-		"unitType": "Scrapper",
+		"unitType": "Helicopter",
 		"uniqueTo": "The Mechanized",
 		"replaces": "Wandering Doctor",
 		"movement": 2,
