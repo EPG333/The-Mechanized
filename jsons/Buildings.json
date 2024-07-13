@@ -481,13 +481,13 @@
 },
 	//names will be added later also possible buff to add +three pop than +two and Mycoprotein Vats could get additional science or culture from fauna tiles
 	{
-	"name":"xxx",
+	"name":"Flesh Cloning Vats",
 	"uniqueTo": "The Mechanized",
 	"replaces": "Mycoprotein Vats",
 	"food": 4,
 	"maintenance": 3,
 	"uniques": [
-			"[+2] population [in this city]",
+			"[+3] population [in this city]",
 			"Unsellable",
 			"Destroyed when the city is captured",
 			"Only available <in cities with a [Life Creation Lab]>"
@@ -495,12 +495,12 @@
 		"requiredTech": "Genetics"
 		
 	},
-	{	"name":"xxxx",
+	{	"name":"Product Waste Purifier",
 	"uniqueTo": "The Mechanized",
 	"replaces": "Reclamation Vats",
 	"maintenance": 4,
 	"uniques": [
-			"[+2] population [in this city]",
+			"[+3] population [in this city]",
 			"Unsellable",
 			"Destroyed when the city is captured",
 			"Only available <in cities with a [Life Creation Lab]>"
