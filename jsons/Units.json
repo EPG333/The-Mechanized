@@ -74,7 +74,7 @@
 		"rangedStrength": 20,
 		"cost": 100,
 		"requiredTech": "Biology",
-		"obsoleteTech": "Replaceable Parts",
+		"obsoleteTech": "Pharmaceuticals",
 		"upgradesTo": "Mobile Clinic",
 		"uniques": [
 			"Can move after attacking",
