@@ -67,6 +67,8 @@
 		"unitType": "Helicopter",
 		"uniqueTo": "The Mechanized",
 		"replaces": "Wandering Doctor",
+		"range": 1,
+		"interceptRange": 1,
 		"movement": 3,
 		"strength": 20,
 		"rangedStrength": 18,
@@ -76,9 +78,9 @@
 		"obsoleteTech": "Replaceable Parts",
 		"uniques": ["Support",
 			"[-25]% Strength <vs cities>",
-			],
+			"Consumes [1] [Power]"],
 		"promotions": ["Medic I"],
-		"attackSound": "nonmetalhit"
+		"attackSound": "shot"
 	},
 
 ]
