@@ -46,6 +46,7 @@
 		"cost": 0,
 		"uniques": [
 			"Provides [4] [Power]",
+			"Provides [2] [Encrypted Data]",
 			"[1] free [Gunner Drone] units appear",
 			"Can only be built <in [Capital] cities>",
 			"[+1] population [in this city]",
@@ -67,7 +68,7 @@
 		"isNationalWonder": true,
 		"uniques": [
 			"[+2] population [in this city]",
-			"Free [Mechanized Worker] appears",
+			"Free [Worker] appears",
 			"Can only be built <in [Capital] cities>",
 		]
 	},
