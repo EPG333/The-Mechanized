@@ -69,7 +69,7 @@
 		"unitType": "Helicopter",
 		"range": 1,
 		"interceptRange": 1,
-		"movement": 4,
+		"movement": 3,
 		"strength": 15,
 		"rangedStrength": 20,
 		"cost": 100,
@@ -78,11 +78,14 @@
 		"upgradesTo": "Mobile Clinic",
 		"uniques": [
 			"Can move after attacking",
-			"[-25]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([75]%)",
+			"All adjacent units heal [+5] HP when healing",
+			"[-1] Sight",
+			"[-25]% Strength <vs cities> ",
+			"May withdraw before melee ([25]%)",
+			"Only available <in cities with a [Hospital]>",
 			"Consumes [1] [Power]"
 		],
-		"promotions": ["Automated"],
+		"promotions": ["Automated","Medic I"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	}
