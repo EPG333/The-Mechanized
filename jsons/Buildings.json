@@ -445,7 +445,8 @@
 		"maintenance": 0,
 		"uniques": [
 			"Creates a [Solar collector] improvement on a specific tile",
-			"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Networking]>"
+			"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Networking]>",
+			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Electronics"
 	},
