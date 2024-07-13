@@ -64,7 +64,7 @@
 	}
 	{
 		"name": "Firt Aid",
-		"unitType": "Scout",
+		"unitType": "Wandering Doctor",
 		"uniqueTo": "The Mechanized",
 		"replaces": "Scout",
 		"movement": 2,
