@@ -62,5 +62,22 @@
 			}
 		]
 	}
+	{
+		"name": "Firt Aid",
+		"unitType": "Scout",
+		"uniqueTo": "The Mechanized",
+		"replaces": "Scout",
+		"movement": 2,
+		"strength": 12,
+		"cost": 25,
+		"upgradesTo": "Forward Observer",
+		"hurryCostModifier": 20,
+		"obsoleteTech": "Replaceable Parts",
+		"uniques": ["Low Tech", "Support",
+			"[-50]% Strength <vs cities>",
+			"Unable to capture cities"],
+		"promotions": ["Reconnaissance I", "Medic I", "Skirmish"],
+		"attackSound": "nonmetalhit"
+	},
 
 ]
