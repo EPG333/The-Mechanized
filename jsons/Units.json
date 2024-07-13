@@ -85,7 +85,7 @@
 			"Only available <in cities with a [Hospital]>",
 			"Consumes [1] [Power]"
 		],
-		"promotions": ["Automated","Medic I"],
+		"promotions": ["Automated","Medic I","Medic II"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	}
