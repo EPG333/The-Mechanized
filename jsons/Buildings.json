@@ -341,6 +341,7 @@
 		"uniqueTo": "The Mechanized",
 		"replaces": "Listening Post",
 		"cost": 200,
+		"happiness": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
@@ -401,7 +402,7 @@
 			"Consumes [1] [Power]",
 			"[+2] population [in this city]",
 			"Destroyed when the city is captured",
-			"Can only be built <in [capital] cities>",
+			"Can only be built <in [Capital] cities>",
 			"Unsellable"
 		]
 	},
