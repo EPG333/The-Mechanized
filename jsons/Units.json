@@ -63,18 +63,18 @@
 		]
 	}
 	{
-		"name": "Firt Aid",
+		"name": "Medical Support Drone",
 		"unitType": "Helicopter",
 		"uniqueTo": "The Mechanized",
 		"replaces": "Wandering Doctor",
-		"movement": 2,
+		"movement": 3,
 		"strength": 12,
 		"cost": 25,
 		"upgradesTo": "Forward Observer",
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Replaceable Parts",
-		"uniques": ["Low Tech", "Support",
-			"[-50]% Strength <vs cities>",
+		"uniques": ["Support",
+			"[-25]% Strength <vs cities>",
 			"Unable to capture cities"],
 		"promotions": ["Reconnaissance I", "Medic I", "Skirmish"],
 		"attackSound": "nonmetalhit"
