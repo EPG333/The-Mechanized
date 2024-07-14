@@ -5,7 +5,7 @@
 		"replaces": "Bomb Shelter",
 		"uniqueTo": "The Mechanized",
 		"production": 5,
-		"cityHealth": 400,
+		"cityHealth": 100,
 		"science": 4,
 		"gold": 1,
 		"cost": 1,
