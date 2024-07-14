@@ -50,7 +50,7 @@
 			"[1] free [Gunner Drone] units appear",
 			"Can only be built <in [Capital] cities>",
 			"[+1] population [in this city]",
-			"Gain a free [Life Creation Lab] [in this city]"
+			"Gain a free [Control Router] [in this city]"
 		],
 		"quote": "If an Artificial Intelligence could bring us through the fallout of a contaminated desert, they can surely lead us on our way to make the wasteland usable again.",
 		"civilopediaText": [
@@ -348,7 +348,6 @@
 		"uniques": [
 			"Consumes [1] [Power]",
 			"[-30]% enemy spy effectiveness [in this city]",
-			"[+1] population [in this city]",
 			"Remove extra unhappiness from annexed cities",
 			"[+1 Happiness] [in this city] <after adopting [Constitution Complete]>",
 			"Only available <in cities without a [Enslave Inferiors]>",
@@ -486,7 +485,7 @@
 	"name":"Flesh Cloning Vats",
 	"uniqueTo": "The Mechanized",
 	"replaces": "Mycoprotein Vats",
-	"food": 4,
+	"food": 6,
 	"maintenance": 3,
 	"uniques": [
 			"[+3] population [in this city]",
