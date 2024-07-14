@@ -75,7 +75,7 @@
 		"cost": 100,
 		"requiredTech": "Biology",
 		"obsoleteTech": "Pharmaceuticals",
-		"upgradesTo": "Mobile Clinic",
+		"upgradesTo": "Helicopter",
 		"uniques": [
 			"Can move after attacking",
 			"All adjacent units heal [+5] HP when healing",
