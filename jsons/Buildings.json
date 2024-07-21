@@ -45,6 +45,7 @@
 		"happiness": 3,
 		"cost": 0,
 		"uniques": [
+			"Automatically built in all cities where it is buildable",
 			"Provides [4] [Power]",
 			"Provides [2] [Encrypted Data]",
 			"[1] free [Gunner Drone] units appear",
