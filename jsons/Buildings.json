@@ -326,11 +326,11 @@
 		"cost": 20,
 		"uniques": [
 			"Remove extra unhappiness from annexed cities",
-			"Can only be built <in [annexed] cities>",
+			"Can only be built <in [Annexed] cities>",
 			"Requires at least [3] population",
 			"Provides [4] [Slaves]",
 			"[-2] population [in this city]",
-			"Only available <in cities without a [Control Router]>",
+			"Only available <in cities without a [Listening Post]>",
 			"Unsellable",
 			"Destroyed when the city is captured"
 		],
