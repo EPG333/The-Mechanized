@@ -49,7 +49,6 @@
 			"Provides [2] [Encrypted Data]",
 			"[1] free [Gunner Drone] units appear",
 			"Can only be built <in [Capital] cities>",
-			"[+1] population [in this city]",
 			"Gain a free [Control Router] [in this city]"
 		],
 		"quote": "If an Artificial Intelligence could bring us through the fallout of a contaminated desert, they can surely lead us on our way to make the wasteland usable again.",
@@ -312,7 +311,7 @@
 			"Cost increases by [30] per owned city",
 			"Unsellable",
 			"Only available <if [Life Creation Lab] is constructed in at least [4] of [Your] cities>",
-			"Can only be built <in [capital] cities>",
+			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Mass Energizer]>",
 			"Destroyed when the city is captured"
 		]
