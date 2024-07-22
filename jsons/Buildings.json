@@ -454,9 +454,8 @@
 		"uniqueTo": "The Mechanized",
 		"replaces": "Community Garden",
 		"specialistSlots": {"Administrator": 1, "Engineer": 1,"Scientist": 1},
-		"maintenance": 1,
-		"percentStatBonus": {"production": 5},
-		"production": 1,
+		"maintenance": 2,
+		"production": 2,
 		"uniques":
 		[
 		"[+25]% Great Person generation [in this city]",
