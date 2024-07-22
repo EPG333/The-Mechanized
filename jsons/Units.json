@@ -61,6 +61,33 @@
 				"text": "A Purge Robot that originally operated during the Old World era. Some of its combat effectiveness was sacrificed when it was refurbished and repurposed for manual labor."
 			}
 		]
+	},
+	{
+		"name": "Medical Support Drone",
+		"replaces": "Wandering Doctor",
+		"uniqueTo": "The Mechanized",
+		"unitType": "Helicopter",
+		"range": 1,
+		"interceptRange": 1,
+		"movement": 3,
+		"strength": 15,
+		"rangedStrength": 20,
+		"cost": 100,
+		"requiredTech": "Biology",
+		"obsoleteTech": "Pharmaceuticals",
+		"upgradesTo": "Helicopter",
+		"uniques": [
+			"Can move after attacking",
+			"All adjacent units heal [+5] HP when healing",
+			"[-1] Sight",
+			"[-25]% Strength <vs cities> ",
+			"May withdraw before melee ([25]%)",
+			"Only available <in cities with a [Hospital]>",
+			"Consumes [1] [Power]"
+		],
+		"promotions": ["Automated","Medic I","Medic II"],
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
 	}
 
 ]
