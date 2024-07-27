@@ -14,18 +14,14 @@
 		"Provides [4] [Power]",
 		
 		"uniques": ["Indicates the capital city", "Provides [4] [Power]",
-		// Biggest worries here. Is it too fast to get bonuses like these? 
 		"[+1 Production] [in capital] <after adopting [Differential Rationing]>",
 		"[+5]% Production when constructing [All] buildings [in capital] <after adopting [Differential Rationing]>",
 		"[+2 Production] [in all cities connected to capital] <after adopting [Adaptation Complete]>",
 		"[+5]% [Gold] [in all cities] <after adopting [Adaptation Complete]>",
-		// Too occasional bonuses
 		"[+1 Faith, +1 Culture] from every [Seminary]",
 		"[+2 Faith, +1 Culture] from every [Oracle]",
 		"[+1 Faith, +2 Gold] from every [Endowment House]",
-		//Shouldn't be too much. Nobody is playing wide while playing The Mechanized to take advantage of these bonuses ( I think )
 		"[-2 Food, +1 Production, +1 Science] [in all cities]  <after adopting [Collectivism Complete]>",
-		// These monopoly changes could out compete Collectivism branch because of the gold slider problem ( need to test )
 		"[+1 Gold, -1 Food] from every [Moisture trap] <after adopting [Monopoly Complete]>",
 		"[+1 Gold, -1 Food] from every [Water pump] <after adopting [Monopoly Complete]>",
 		"[+1 Production] from every [Refinery] <after adopting [Monopoly Complete]>",
@@ -34,10 +30,8 @@
 		"[+2 Gold, -2 Food] from every [Banana Business Area] <after adopting [Monopoly Complete]>",
 		"[+2 Gold, +2 Culture] from every [Narcotics farm] <after adopting [Monopoly Complete]>",
 		"[+1 Gold, -2 Food] from every [Wasteland Station] <after adopting [Monopoly Complete]>"],
-		// Add Rediscovery Policy tree changes to Aquaculture and Exclusive Zones
 	
 			},
-	//Can't be Automatically build and if so free Life Creation Lab must be deleted (auto-build doesn't give one additional pop because of this change)
 	{
 		"name": "Solar Power AI",
 		"isWonder": true,
@@ -59,7 +53,6 @@
 			}
 		]
 	},
-	// Free mechanized Worker could be changed to normal worker 
 	{
 		"name": "Track Survivors",
 		"replaces": "Search for Survivors",
@@ -128,7 +121,7 @@
 		"replaces": "Greenhouse",
 		"uniqueTo": "The Mechanized",
 		"food": 4,
-		"requiredNearbyImprovedResources": ["Tubers", "Grain", "Fungus", "Cactus"],
+		"requiredNearbyImprovedResources": ["Tubers", "Grain", "Fungus", "Cactus", "Maize"],
 		"uniques": [
 			"[+2] population [in this city]",
 			"Unsellable",
@@ -139,7 +132,6 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Botany"
 	},
-	//remove the +one food from coast tiles and maybe change into other yield
 	{
 		"name": "Fish Farm Regulator",
 		"replaces": "Fish Farm",
@@ -283,6 +275,7 @@
 	// Ideas:
 	// Complete changes ( remove Mass Energizer and Mass Breedery for proper replacment)
 	// Embrace thier nature and add additional stats 
+	
 	{
 		"name": "Mass Energizer",
 		"replaces": "Congress",
@@ -290,7 +283,7 @@
 		"cost": 100,
 		"requiredTech": "Civil Service",
 		"uniques": [
-		   	"Provides [8] [Power]",
+		   	"Provides [4] [Power]",
 			"[+2] population [in this city]",
 			"[-5]% Unhappiness from [Population] [in all cities]",
 			"Unsellable",
@@ -307,8 +300,8 @@
 		"uniqueTo": "The Mechanized",
 		"requiredTech": "Civil Service",
 		"uniques": [
-			"Consumes [3] [Power]",
-			"[+2] population [in all cities]",
+			"Consumes [4] [Power]",
+			"[+3] population [in all cities connected to capital]",
 			"Cost increases by [30] per owned city",
 			"Unsellable",
 			"Only available <if [Life Creation Lab] is constructed in at least [4] of [Your] cities>",
@@ -417,7 +410,7 @@
 		"hurryCostModifier": 30,
 		"percentStatBonus": {"food": -30},
 		"uniques": [
-			"Provides [12] [Power]",
+			"Provides [10] [Power]",
 			"Consumes [2] [Coal]",
 			"Only available <in cities without a [Nuclear Plant]>",
 			"Only available <in cities with a [Library]>",
@@ -437,7 +430,6 @@
 			"Must have an owned [Solar collector] within [2] tiles"],
 		"requiredTech": "Electronics",
 	}
-	// This bottom building could be assimilated to solar powered furnace wanted to add this to pre-electronics techs but solar panel are unbuildable until electronics are discovered (duh)
 	{
 			"name": "Solar Panel Control",
 		"uniqueTo": "The Mechanized",
@@ -507,6 +499,7 @@
 	{	"name":"Product Waste Purifier",
 	"uniqueTo": "The Mechanized",
 	"replaces": "Reclamation Vats",
+	"percentStatBonus": {"food": 25},
 	"maintenance": 4,
 	"uniques": [
 			"[+3] population [in this city]",
