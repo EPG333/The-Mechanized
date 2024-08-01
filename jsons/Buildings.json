@@ -461,6 +461,11 @@
 	"uniques": [
 			"Must be next to [Coast]",
 			"[+2] population [in this city]",
+			"[+1 Science] from [Algae] tiles [in this city]",
+			"[+1 Science] from [Plankton] tiles [in this city]",
+			"[+1 Science] from [Deepwater Fish] tiles [in this city]",
+			"[+1 Science] from [Mutant Eel] tiles [in this city]",
+			"[+1 Science] from [Jellyfish] tiles [in this city]",
 			"Unsellable",
 			"Destroyed when the city is captured",
 			"Only available <in cities with a [Life Creation Lab]>"
@@ -484,6 +489,7 @@
 			"[+1 Science] from [Horses] tiles [in this city]",
 			"[+1 Science] from [Hogs] tiles [in this city]",
 			"[+1 Science, +1 Culture] from [Hostile Fauna] tiles [in this city]",
+			"[+1 Science, +1 Culture] from [Fungus] tiles [in this city]",
 			"Unsellable",
 			"Destroyed when the city is captured",
 			"Only available <in cities with a [Life Creation Lab]>",
