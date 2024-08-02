@@ -4,339 +4,199 @@ size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Ape Tradition Centre
-  rotate: false
-  xy: 4, 62
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
 BuildingIcons/Artificial Feedery
   rotate: false
-  xy: 1376, 262
+  xy: 4, 44
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Bio Material Recycling
   rotate: false
-  xy: 212, 270
+  xy: 268, 272
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Black Smoker
   rotate: false
-  xy: 1376, 154
+  xy: 268, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Child Care Office
-  rotate: false
-  xy: 4, 4
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
 BuildingIcons/Cleaner Nucleator
   rotate: false
-  xy: 1484, 262
+  xy: 1308, 372
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Control Router
   rotate: false
-  xy: 1484, 154
+  xy: 112, 44
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Enslave Inferiors
   rotate: false
-  xy: 1592, 154
+  xy: 376, 164
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fabricated Paradise
+  rotate: false
+  xy: 1416, 372
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fish Farm Regulator
   rotate: false
-  xy: 1700, 262
+  xy: 484, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Freezing Room
   rotate: false
-  xy: 1700, 154
+  xy: 1524, 372
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Integrate Enslaved Into Society
   rotate: false
-  xy: 1808, 154
+  xy: 700, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Kindergarten
-  rotate: false
-  xy: 1592, 96
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
 BuildingIcons/Life Creation Lab
   rotate: false
-  xy: 420, 62
+  xy: 684, 272
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Mass Breedery
   rotate: false
-  xy: 1052, 46
+  xy: 1740, 372
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mass Energizer
   rotate: false
-  xy: 1160, 46
+  xy: 808, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mechanized Core
   rotate: false
-  xy: 628, 270
+  xy: 892, 272
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Next-Gen Creation Lab
+  rotate: false
+  xy: 916, 164
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Rations Dispenser
+  rotate: false
+  xy: 1024, 164
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Smart Processing Plant
+  rotate: false
+  xy: 1308, 264
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Solar Power AI
   rotate: false
-  xy: 628, 62
+  xy: 1100, 272
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+BuildingIcons/Solar Powered Furnace
+  rotate: false
+  xy: 1416, 264
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Track Survivors
   rotate: false
-  xy: 1484, 46
+  xy: 1632, 264
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Playground
+ImprovementIcons/Hacking site
   rotate: false
-  xy: 62, 4
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-MayaCalendar/1
-  rotate: false
-  xy: 836, 162
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/10
-  rotate: false
-  xy: 1908, 370
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/11
-  rotate: false
-  xy: 836, 54
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/12
-  rotate: false
-  xy: 944, 162
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/13
-  rotate: false
-  xy: 944, 54
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/14
-  rotate: false
-  xy: 1052, 262
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/15
-  rotate: false
-  xy: 1052, 154
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/16
-  rotate: false
-  xy: 1160, 262
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/17
-  rotate: false
-  xy: 1160, 154
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/18
-  rotate: false
-  xy: 1268, 262
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/19
-  rotate: false
-  xy: 1268, 154
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/2
-  rotate: false
-  xy: 1044, 370
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/3
-  rotate: false
-  xy: 1152, 370
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/4
-  rotate: false
-  xy: 1260, 370
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/5
-  rotate: false
-  xy: 1368, 370
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/6
-  rotate: false
-  xy: 1476, 370
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/7
-  rotate: false
-  xy: 1584, 370
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/8
-  rotate: false
-  xy: 1692, 370
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-MayaCalendar/9
-  rotate: false
-  xy: 1800, 370
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Cyberapes
-  rotate: false
-  xy: 1592, 262
+  xy: 1632, 372
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Mechanized
   rotate: false
-  xy: 1376, 46
+  xy: 1524, 264
   size: 100, 100
   orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/A Better Place
-  rotate: false
-  xy: 4, 270
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-ReligionIcons/Conservation
-  rotate: false
-  xy: 212, 62
-  size: 200, 200
-  orig: 200, 200
   offset: 0, 0
   index: -1
 ReligionIcons/High Mind
   rotate: false
-  xy: 420, 270
+  xy: 476, 272
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Playground
+TileSets/FantasyHex/Tiles/Hacking site
   rotate: false
-  xy: 1916, 272
+  xy: 4, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Medical Support Drone
+  rotate: false
+  xy: 4, 152
+  size: 256, 320
+  orig: 256, 320
+  offset: 0, 0
+  index: -1
 UnitIcons/Gunner Drone
   rotate: false
-  xy: 1808, 262
+  xy: 592, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Kids Care Monkey
+UnitIcons/Medical Support Drone
   rotate: false
-  xy: 1916, 312
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-UnitIcons/Scouter Group
-  rotate: false
-  xy: 1268, 46
+  xy: 1848, 372
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Terrain Controller
+UnitIcons/Refurbished Purge Robot
   rotate: false
-  xy: 836, 270
-  size: 200, 200
-  orig: 200, 200
+  xy: 1132, 164
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
