@@ -30,8 +30,8 @@
 		"[+2 Gold, -2 Food] from every [Banana Business Area] <after adopting [Monopoly Complete]>",
 		"[+2 Gold, +2 Culture] from every [Narcotics farm] <after adopting [Monopoly Complete]>",
 		"[+1 Gold, -2 Food] from every [Wasteland Station] <after adopting [Monopoly Complete]>",
-		"[-1 Food, +1 Science] from every [Coast] <in tiles without [Water resource]> <after adopting [Exclisive Zones]>",
-		"[-1 Food, +1 Science] from every [Ocean] <in tiles without [Water resource]> <after adopting [Exclisive Zones]>",
+		"[-1 Food, +1 Science] from every [Coast] <in tiles without [Water resource]> <after adopting [Exclusive Zones]>",
+		"[-1 Food, +1 Science] from every [Ocean] <in tiles without [Water resource]> <after adopting [Exclusive Zones]>",
 		"[-2 Food, +1 Science] from every [Fish Farm] <after adopting [Aquaculture]>",
 		"[-2 Food, +1 Science] from every [Desalination Plant] <after adopting [Aquaculture]>",
 		"[-2 Food, +1 Science] from every [Ocean Seeder] <after adopting [Aquaculture]>"
@@ -472,7 +472,7 @@
 		],
 	"requiredTech":"Ocean Remediation"
 },
-	//names will be added later also possible buff to add +three pop than +two and Mycoprotein Vats could get additional science or culture from fauna tiles
+	
 	{
 	"name":"Flesh Cloning Vats",
 	"uniqueTo": "The Mechanized",
@@ -481,6 +481,7 @@
 	"maintenance": 3,
 	"uniques": [
 			"[+3] population [in this city]",
+			"[+1 Science] from [Insects] tiles [in this city]",
 			"[+1 Science] from [Goats] tiles [in this city]",
 			"[+1 Science] from [Cattle] tiles [in this city]",
 			"[+1 Science] from [Deer] tiles [in this city]",
