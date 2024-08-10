@@ -36,7 +36,7 @@
 		"[-2 Food, +1 Science] from every [Desalination Plant] <after adopting [Aquaculture]>",
 		"[-2 Food, +1 Science] from every [Ocean Seeder] <after adopting [Aquaculture]>",
 		
-		"[-10 Food] from [Artificial oasis] tiles ",			
+		"[-10 Food] from every [Artificial oasis] ",			
 			"[-10 Food] from [Insects] tiles [in all cities]",
 			"[-10 Food] from [Goats] tiles [in all cities]",
 			"[-10 Food] from [Cattle] tiles [in all cities]",
