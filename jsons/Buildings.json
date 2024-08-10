@@ -34,7 +34,22 @@
 		"[-1 Food, +1 Science] from every [Ocean] <in tiles without [Water resource]> <after adopting [Exclusive Zones]>",
 		"[-2 Food, +1 Science] from every [Fish Farm] <after adopting [Aquaculture]>",
 		"[-2 Food, +1 Science] from every [Desalination Plant] <after adopting [Aquaculture]>",
-		"[-2 Food, +1 Science] from every [Ocean Seeder] <after adopting [Aquaculture]>"
+		"[-2 Food, +1 Science] from every [Ocean Seeder] <after adopting [Aquaculture]>",
+		
+		"[-10 Food] from [Artificial oasis] tiles ",			
+			"[-10 Food] from [Insects] tiles [in all cities]",
+			"[-10 Food] from [Goats] tiles [in all cities]",
+			"[-10 Food] from [Cattle] tiles [in all cities]",
+			"[-10 Food] from [Deer] tiles [in all cities]",
+			"[-10 Food] from [Inscets] tiles [in all cities]",
+			"[-10 Food] from [Furs] tiles [in all cities]",
+			"[-10 Food] from [Horses] tiles [in all cities]",
+			"[-10 Food] from [Hogs] tiles [in all cities]",
+			"[-10 Food] from [Hostile Fauna] tiles [in all cities]",
+			"[-10 Food] from [Fungus] tiles [in all cities]",
+		
+		
+		
 		],
 	
 			},
@@ -79,7 +94,7 @@
 		"science": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"requiredTech": "Biology",
+		"requiredTech": "Construction",
 		"uniques": [
 			"[+15]% Production when constructing [Unsellable] buildings [in this city]",
 			"[+1] population [in this city]",
