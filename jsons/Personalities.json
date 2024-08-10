@@ -8,7 +8,7 @@
 		"culture": 3,
 		"faith": 2,
 		"happiness": 5,
-		"military": 5,
+		"military": 6,
 		"aggressive": 5,
 		"declareWar": 5,
 		"commerce": 5,
@@ -28,6 +28,7 @@
 			"Naturalism": 0,
 			"Mechanization": 50,
 			"Bionics": 0
+			"Legacy": 0
 		}
 	}
 ]
