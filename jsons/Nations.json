@@ -35,7 +35,7 @@
 		"[-10 Food] from [Inscets] tiles [in all cities] <hidden from users>",
 		"[-10 Food] from [Furs] tiles [in all cities] <hidden from users>",
 		"[-10 Food] from [Horses] tiles [in all cities] <hidden from users>",
-		"[-10 Food] from [Hogs] tiles [in all cities]",
+		"[-10 Food] from [Hogs] tiles [in all cities] <hidden from users>",
 		"[-10 Food] from [Hostile Fauna] tiles [in all cities] <hidden from users>",
 		"[-10 Food] from [Fungus] tiles [in all cities] <hidden from users>",
 		
@@ -77,12 +77,12 @@
 		
 		
 			"Comment [Food-based policies give other bonuses]",
-		"[+1 Production] [in capital] <after adopting [Differential Rationing]>",
+		"[+1 Production] [in capital] <after adopting [Differential Rationing]> <hidden from users>",
 		"[+5]% Production when constructing [All] buildings [in capital] <after adopting [Differential Rationing]> <hidden from users>",
 		"[+2 Production] [in all cities connected to capital] <after adopting [Adaptation Complete]> <hidden from users>",
 		"[+5]% [Gold] [in all cities] <after adopting [Adaptation Complete]> <hidden from users>",
 		"[+1 Faith, +1 Culture, -1 Food] from every [Seminary] <after adopting [Theocracy Complete]> <hidden from users>",
-		"[+2 Faith, +1 Culture, -1 Food] from every [Oracle] <after adopting [Theocracy Complete]>",
+		"[+2 Faith, +1 Culture, -1 Food] from every [Oracle] <after adopting [Theocracy Complete]> <hidden from users>",
 		"[+1 Faith, +2 Gold, -1 Food] from every [Endowment House] <after adopting [Theocracy Complete]> <hidden from users>",
 		"[-2 Food, +1 Production, +1 Science] [in all cities]  <after adopting [Collectivism Complete]> <hidden from users>",
 		"[+1 Gold, -1 Food] from every [Moisture trap] <after adopting [Monopoly Complete]> <hidden from users>",
