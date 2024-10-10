@@ -17,7 +17,7 @@
 			"[+25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([75]%)",
+			"Withdraws before melee combat <with [25]% chance>",
 			"Consumes [1] [Power]"
 		],
 		"promotions": ["Automated"],
@@ -61,8 +61,8 @@
 				"text": "A Purge Robot that originally operated during the Old World era. Some of its combat effectiveness was sacrificed when it was refurbished and repurposed for manual labor."
 			}
 		]
-	},
-	{
+	}
+	/*{
 		"name": "Medical Support Drone",
 		"replaces": "Wandering Doctor",
 		"uniqueTo": "The Mechanized",
@@ -80,14 +80,14 @@
 			"Can move after attacking",
 			"All adjacent units heal [+5] HP when healing",
 			"[-1] Sight",
-			"[-25]% Strength <vs cities> ",
-			"May withdraw before melee ([25]%)",
+			"[-25]% Strength <vs cities>",
+			"Withdraws before melee combat <with [25]% chance>",
 			"Only available <in cities with a [Hospital]>",
 			"Consumes [1] [Power]"
 		],
-		"promotions": ["Automated","Medic I","Medic II"],
+		"promotions": ["Automated", "Medic I", "Medic II"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
-	}
-
+		//Commented out for now; while this denies the faction a UU, it lets the mod be used without Outlaws of the Wastes
+	}*/
 ]

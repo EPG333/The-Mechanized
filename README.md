@@ -1,1 +1,2 @@
 # The Mechanized, Derusted
+An attempt to rebalance The Mechanized faction, originally created by Bamboolord and is notorious among the DeCiv community as the faction whose gimmick makes it the most difficult to balance correctly, bar none. Requires the DeCiv 2 fork and will not work with Redux.
