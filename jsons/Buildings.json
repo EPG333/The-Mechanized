@@ -371,7 +371,7 @@
 			"[+1 Production] from [Scrap] tiles [in this city]",
 			"[+1 Production] from [Metal] tiles [in this city]",
 			"[+1 Production] from [Solar collector] tiles [in this city]",
-			"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Networking]>",],
+			"[+1 Production] from [Solar collector] tiles [in this city] <after discovering [Networking]>"],
 		"requiredTech": "Steel",
 	}
 	{
